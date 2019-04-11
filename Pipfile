@@ -10,6 +10,8 @@ pandas = "*"
 numpy = "*"
 msgpack-python = "*"
 scrapinghub = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
