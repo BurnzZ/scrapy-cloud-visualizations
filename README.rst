@@ -7,6 +7,7 @@ Usage
 ~~~~~
 
 .. code-block:: python
+
    from scrapy_cloud_visualizer import Visualizer
    viz = Visualizer('APIKEY123', '123456')
    viz.show_heatmap_jobs('my_awesome_spider')
